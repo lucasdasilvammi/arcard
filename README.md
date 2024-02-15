@@ -1,32 +1,27 @@
-# Zappar for A-Frame Examples
-This repository contains an AR example using the Zappar SDK for A-Frame.
+![Preview QR Code"](cover.png)
 
-For more information, check out the package page for [Zappar for A-Frame](https://www.npmjs.com/package/@zappar/zappar-aframe) (@zappar/zappar-aframe).
-
-## Preview
-​
-Scan the QR code below using your native camera app or QR code reader to view the example:
-​
-![Preview QR Code"](preview-qr-code.png)
-
-## Prerequisites
-
-To get started you'll want to print out the example target images, `example-tracking-image.png` and `BusinessCard.png`.
+Sujet - Faites vivre une expérience intéractive à votre carte de visite avec la réalité augmentée.
+La carte de visite, traditionnellement utilisée comme un outil statique pour partager des informations professionnelles, peut aujourd'hui être transformée en une expérience interactive et immersive grâce à la réalité augmentée (RA).
 
 
-## Trying the Examples
+## Mise en intrigue
 
-Due to browser restrictions surrounding use of the camera, you must use HTTPS to access the HTML files, even if doing so locally from your computer. You can use the [ZapWorks command-line tool](https://www.npmjs.com/package/@zappar/zapworks-cli) to serve a folder over HTTPS for access on your local computer, like this:
-```
-zapworks serve .
-```
+Quelle compétence souhaitez-vous mettre en avant ?
+J'ai souhaité mettre en avant mes compétences de création graphique, de motion design et de webdesign en représentant l'interface du logiciel Figma.
+Je représente à travers ce motion design la création, l'imagination et la collaboration / le travail d'équipe
 
-The command also lets you serve the folder for access by other devices on your local network, like this:
-```
-zapworks serve . --lan
-```
+Quelle est votre entreprise cible ?
+L'entreprise que j'ai choisi de cibler est 3310 Street. celle dans laquelle je réalise actuellement mon alternance.
 
-Once this is running, open the link that's output on the console and tap the different HTML files to try the examples. If you'd like to try on a mobile device, ensure it's on the same local network as your computer, then visit the appropriate link in the console output.
+Trouver un slogan en déduire un concept, une bonne idée.
+Mon slogan : D'une idée créons ensemble
 
-## Target Image
-![Target Image](example-tracking-image.png)
+#C'est parti
+
+Scannez ce QR Code pour démarrer
+
+![Preview QR Code"](qr-code.png)
+
+Acceptez les demandes d'accès à la caméra puis scannez ma carte de visite pour que la magie opère.
+
+![Target Image](carte_de_visite.png)
