@@ -18,6 +18,7 @@ L'entreprise que j'ai choisi de cibler est 3310 Street. celle dans laquelle je r
 Trouver un slogan en déduire un concept, une bonne idée.
 
 Mon slogan : D'une idée créons ensemble
+Mon concept : Alors qu'un utilisateur essaye sur Figma de créer un logo, il se sent peu inspiré. Heureusement, ses collaborateurs arrivent à sa rescousse, apportant avec eux inspiration et soutien.
 
 # C'est parti
 
